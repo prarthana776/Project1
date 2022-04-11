@@ -1,0 +1,2 @@
+100	Pinky	8	    A
+101	Prithvi	7	    B
